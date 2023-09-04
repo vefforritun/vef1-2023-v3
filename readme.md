@@ -131,8 +131,10 @@ Skila skal í Canvas, seinasta lagi fyrir lok dags fimmtudaginn 14. september 20
 
 Skilaboð skulu innihalda:
 
-- zip skrá með öllum skrám _eða_ hlekkur á GitHub.
+- zip skrá með öllum skrám _eða_ hlekkur á almennt (e. public) GitHub.
 - slóð á verkefni keyrandi á Netlify sem athugasemd („Add comment“ eða „Bæta við athugasemd“ á skilaskjá í Canvas).
+
+Skila má eins oft og þið viljið þar til skilafrestur rennur út.
 
 ## Einkunn
 
